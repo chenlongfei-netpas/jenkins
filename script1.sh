@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 'Hello World.'
+echo 'Hello World.And today is Thurday.'
 echo `date` >> /tmp/jenkins.txt
